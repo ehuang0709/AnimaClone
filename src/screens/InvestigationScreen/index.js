@@ -1,0 +1,1 @@
+export { InvestigationScreen } from "./InvestigationScreen";
